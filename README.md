@@ -1,5 +1,3 @@
-# COS40007_Week2_Assignment2
-
 # 📊 Portfolio Report – Assignment 1
 
 **Name:** [Your Name]  
