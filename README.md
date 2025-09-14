@@ -1,8 +1,8 @@
 # 📊 Portfolio Report – Assignment 1
 
-**Name:** [Your Name]  
-**Student Number:** [Your Student Number]  
-**Studio Class:** [Your Studio]  
+**Name:** [Vo Thi Kim Huyen]  
+**Student Number:** [104169824]  
+**Course:** COS40007 Artificial Intelligence for Engineering
 
 ---
 
